@@ -5,11 +5,15 @@
 
 Defend the galaxy, fight through enemy waves, and survive the Nova Siege!
 
-## 🎮 About the Game
+## 🎮 Play Online
+
+Play Nova Siege directly in your browser. No download or installation required!
+
+### 👉 [PLAY NOVA SIEGE](https://beamish-sunshine-3a52ef.netlify.app)
+
+## 🌌 About the Game
 
 Nova Siege is an independent sci-fi space combat game. Take control of your ship, battle enemies, and experience an intense space adventure.
-
-This project is developed as an indie game project, with the goal of delivering an engaging and accessible gaming experience.
 
 ## ✨ Features
 
@@ -19,27 +23,7 @@ This project is developed as an indie game project, with the goal of delivering 
 - 🎮 Interactive gameplay
 - 🔊 Sound effects and game audio
 - 🏆 Online leaderboard support
-- 💾 Downloadable game project
-
-## 📥 Download and Play
-
-### Step 1 — Download
-
-1. Go to the [Nova Siege GitHub repository](https://github.com/lam041207-cyber/Nova-Siege).
-2. Click the green **Code** button.
-3. Select **Download ZIP**.
-
-### Step 2 — Extract the ZIP
-
-1. Find the downloaded `Nova-Siege.zip` file.
-2. Right-click it.
-3. Select **Extract Here** or **Extract All**.
-
-### Step 3 — Start the Game
-
-Open the extracted folder and follow the instructions in the included `README` or launcher file.
-
-**Important:** The source-code version of Nova Siege requires Node.js to run locally. A standalone downloadable version that does not require Node.js will be provided separately when available.
+- 🌐 Browser-based gameplay
 
 ## 🛠️ Built With
 
@@ -56,7 +40,7 @@ Nova Siege is a free independent game project.
 
 If you enjoy the game and want to support its development, you can make a voluntary donation.
 
-Donations help support:
+Your support helps fund:
 - Future game updates
 - New ships and content
 - Bug fixes and maintenance
@@ -71,7 +55,6 @@ Donations are completely optional and do not provide gameplay advantages.
 - [ ] Introduce new ships
 - [ ] Improve visual effects
 - [ ] Add more content and updates
-- [ ] Release a standalone downloadable version
 
 ## 👨‍💻 Developer
 
@@ -85,4 +68,4 @@ Please contact the developer before redistributing or modifying the project.
 
 ---
 
-**Thank you for checking out Nova Siege!** 🌌
+**Thank you for playing Nova Siege!** 🌌
