@@ -1,0 +1,54 @@
+{
+  "game": "nova-siege",
+  "version": 1,
+  "exportedAt": "2026-11-08T12:56:19.490Z",
+  "save": {
+    "coins": 113,
+    "crystals": 110,
+    "totalCoinsEarned": 113,
+    "upgrades": {
+      "damage": 0,
+      "fireRate": 0,
+      "multishot": 0,
+      "hull": 0,
+      "shield": 0,
+      "thrusters": 0,
+      "coinBonus": 0,
+      "magnet": 0
+    },
+    "perks": {
+      "bombBay": 0,
+      "chainReaction": 0,
+      "critCore": 0,
+      "phoenix": 0,
+      "luckyDrop": 0,
+      "bossBreaker": 0
+    },
+    "ownedShips": [
+      "wisp"
+    ],
+    "selectedShip": "wisp",
+    "bestWave": 1,
+    "bestRunKills": 10,
+    "totalKills": 10,
+    "totalBosses": 0,
+    "runs": 1,
+    "passXp": 45,
+    "passClaimed": [],
+    "daily": {
+      "streak": 1,
+      "lastClaim": "2026-11-08"
+    },
+    "achievementsClaimed": [],
+    "gacha": {
+      "pulls": 0,
+      "pity5": 0,
+      "pity4": 0
+    },
+    "settings": {
+      "music": true,
+      "sfx": true
+    },
+    "callsign": ""
+  }
+}
