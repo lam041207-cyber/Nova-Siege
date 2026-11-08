@@ -7,9 +7,9 @@ Defend the galaxy, fight through enemy waves, and survive the Nova Siege!
 
 ## 🎮 About the Game
 
-Nova Siege is an independent browser-based space combat game. Take control of your ship, battle enemies, and experience an intense sci-fi adventure.
+Nova Siege is an independent sci-fi space combat game. Take control of your ship, battle enemies, and experience an intense space adventure.
 
-This project is developed as an indie game project with the goal of delivering an engaging and accessible gaming experience.
+This project is developed as an indie game project, with the goal of delivering an engaging and accessible gaming experience.
 
 ## ✨ Features
 
@@ -19,54 +19,27 @@ This project is developed as an indie game project with the goal of delivering a
 - 🎮 Interactive gameplay
 - 🔊 Sound effects and game audio
 - 🏆 Online leaderboard support
-- 🌐 Browser-based gameplay
+- 💾 Downloadable game project
 
-*Features may change as development continues.*
+## 📥 Download and Play
 
-## 🕹️ Play the Game
+### Step 1 — Download
 
-**Play Nova Siege online:**
+1. Go to the [Nova Siege GitHub repository](https://github.com/lam041207-cyber/Nova-Siege).
+2. Click the green **Code** button.
+3. Select **Download ZIP**.
 
-[Play Nova Siege](https://cosmic-combat-baolam161823s-team-draft.v.monday.app)
+### Step 2 — Extract the ZIP
 
-## 💻 Run Locally
+1. Find the downloaded `Nova-Siege.zip` file.
+2. Right-click it.
+3. Select **Extract Here** or **Extract All**.
 
-### Requirements
+### Step 3 — Start the Game
 
-- Node.js
-- npm
+Open the extracted folder and follow the instructions in the included `README` or launcher file.
 
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/lam041207-cyber/Nova-Siege.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Nova-Siege
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open the local URL displayed in your terminal, usually:
-
-```text
-http://localhost:5173/
-```
+**Important:** The source-code version of Nova Siege requires Node.js to run locally. A standalone downloadable version that does not require Node.js will be provided separately when available.
 
 ## 🛠️ Built With
 
@@ -91,10 +64,6 @@ Donations help support:
 
 Donations are completely optional and do not provide gameplay advantages.
 
-## 📸 Screenshots
-
-Screenshots and gameplay videos will be added here as the project develops.
-
 ## 🗺️ Roadmap
 
 - [ ] Improve gameplay and balancing
@@ -102,6 +71,7 @@ Screenshots and gameplay videos will be added here as the project develops.
 - [ ] Introduce new ships
 - [ ] Improve visual effects
 - [ ] Add more content and updates
+- [ ] Release a standalone downloadable version
 
 ## 👨‍💻 Developer
 
